@@ -1,4 +1,6 @@
-### Hi there 👋
+### About 👽
+
+**_Whoa!_** (What's this?)[https://cant0r.github.io]
 
 <!--
 **cant0r/cant0r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
